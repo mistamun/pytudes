@@ -1,4 +1,3 @@
 numpy
 matplotlib
 jupyterhub==1.0.0
-jupyterhub-singleuser==1.0.0
