@@ -4,8 +4,6 @@ Copyright (c) 2007-2016 Peter Norvig
 MIT license: www.opensource.org/licenses/mit-license.php
 """
 
-################ Spelling Corrector 
-
 import re
 from collections import Counter
 
