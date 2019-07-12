@@ -1,4 +1,5 @@
 numpy
 matplotlib
 Pillow
+pandas
 jupyterhub==1.0.0
